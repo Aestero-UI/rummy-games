@@ -8,13 +8,13 @@ Welcome to a professionally organized list of India’s most popular Rummy games
 
 | Game Name     | Preview & Download | Description |
 |---------------|--------------------|-------------|
-| **Yono Rummy** | [yonostore](https://yonostore.vercel.app/yono-rummy) | Fast, secure, and bonus-rich rummy app designed for players who enjoy daily rewards and smooth withdrawals. |
-| **ABC Rummy** | [yonostore](https://yonostore.vercel.app/abc-rummy) | Lightweight and easy-to-use interface, perfect for quick games and responsive gameplay. |
-| **JaiHo Rummy** | [yonostore](https://yonostore.vercel.app/jaiho-rummy) | Desi-themed app with culturally inspired design and a focus on weekly bonus offers. |
-| **Gogo Rummy** | [yonostore](https://yonostore.vercel.app/gogo-rummy) | Known for fast referrals and instant rebate features. Simple UI with secure wallet integration. |
-| **IND Rummy** | [yonostore](https://yonostore.vercel.app/ind-rummy) | Classic Indian Rummy with modern visuals and verified payment gateways. Ideal for seasoned players. |
-| **Rummy 91** | [yonostore](https://yonostore.vercel.app/rummy-91) | A reliable option with minimal UI, fast cashouts, and stable in-app features. |
-| **Rummy 365** | [yonostore](https://yonostore.vercel.app/rummy-365) | 365-day engagement platform offering constant promotions, cash tournaments, and attractive rewards. |
+| **Yono Rummy** | [Yono Rummy](https://yonostore.vercel.app/yono-rummy) | Fast, secure, and bonus-rich rummy app designed for players who enjoy daily rewards and smooth withdrawals. |
+| **ABC Rummy** | [ABC Rummy](https://yonostore.vercel.app/abc-rummy) | Lightweight and easy-to-use interface, perfect for quick games and responsive gameplay. |
+| **JaiHo Rummy** | [JaiHo Rummy](https://yonostore.vercel.app/jaiho-rummy) | Desi-themed app with culturally inspired design and a focus on weekly bonus offers. |
+| **Gogo Rummy** | [Gogo Rummy](https://yonostore.vercel.app/gogo-rummy) | Known for fast referrals and instant rebate features. Simple UI with secure wallet integration. |
+| **IND Rummy** | [Ind Rummy](https://yonostore.vercel.app/ind-rummy) | Classic Indian Rummy with modern visuals and verified payment gateways. Ideal for seasoned players. |
+| **Rummy 91** | [Rummy 91](https://yonostore.vercel.app/rummy-91) | A reliable option with minimal UI, fast cashouts, and stable in-app features. |
+| **Rummy 365** | [Rummy 365](https://yonostore.vercel.app/rummy-365) | 365-day engagement platform offering constant promotions, cash tournaments, and attractive rewards. |
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to a professionally organized list of India’s most popular Rummy games
 All above games are featured on [yonostore](https://yonostore.vercel.app), a platform created to help users discover verified card gaming apps with working APKs, proper descriptions, and fast access.
 
 You can also visit the one-page HTML version of this list here:  
-👉 **GitHub Pages**: [https://yourusername.github.io/rummy-games/](https://yourusername.github.io/rummy-games/)
+👉 **GitHub Pages**: [rummy-games](https://yourusername.github.io/rummy-games/)
 
 ---
 
