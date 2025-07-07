@@ -1,36 +1,73 @@
-# 🎯 Rummy Game Download Directory
+# 🎯 Rummy Games Collection – Curated by yonostore
 
-A professional and curated list of **top Rummy game platforms** for players in India. Whether you're into real cash games or casual card fun, these platforms deliver trusted, smooth experiences.
+Welcome to a professionally maintained directory of popular Rummy apps in India. All apps listed here are known for smooth performance, secure transactions, and real cash withdrawal options.
 
-Explore each platform below 👇
-
----
-
-## 📂 Game List
-
-| Game         | Logo | Preview & Info | Description |
-|--------------|------|----------------|-------------|
-| **Yono Rummy** | ![Yono Rummy]([https://yonostore.vercel.app/assets/yono-png](https://yonostore.vercel.app/_next/image?url=%2Fimages%2Fyono%20rummy.webp&w=96&q=75)) | [Explore Yono Rummy](https://yonostore.vercel.app/yono-rummy) | A fast, secure platform with smooth withdrawals and daily bonuses. |
-| **ABC Rummy** | ![ABC Rummy]([https://yonostore.vercel.app/assets/abc.png](https://yonostore.vercel.app/_next/image?url=%2Fimages%2Fabc-rummy.webp&w=96&q=75)) | [Explore ABC Rummy](https://yonostore.vercel.app/abc-rummy) | Lightweight APK with responsive design, ideal for quick gaming sessions. |
-| **JaiHo Rummy** | ![JaiHo Rummy]([https://yonostore.vercel.app/assets/jaiho.png](https://yonostore.vercel.app/_next/image?url=%2Fimages%2Fjaiho-rummy.png&w=96&q=75)) | [Explore JaiHo Rummy](https://yonostore.vercel.app/jaiho-rummy) | Desi-themed Rummy experience with vibrant visuals and weekly rewards. |
-| **Gogo Rummy** | ![Gogo Rummy]([https://yonostore.vercel.app/assets/gogo.png](https://yonostore.vercel.app/_next/image?url=%2Fimages%2Fgogo%20rummy.png&w=96&q=75)) | [Explore Gogo Rummy](https://yonostore.vercel.app/gogo-rummy) | Popular for instant rebates and 24/7 customer support. |
-| **IND Rummy** | ![IND Rummy]([https://yonostore.vercel.app/assets/ind.png](https://yonostore.vercel.app/_next/image?url=%2Fimages%2Find%20rummy.png&w=96&q=75)) | [Explore IND Rummy](https://yonostore.vercel.app/ind-rummy) | Features classic and modern Rummy modes in one seamless app. |
-| **Rummy 91** | ![Rummy 91]([https://yonostore.vercel.app/assets/91.png](https://yonostore.vercel.app/_next/image?url=%2Fimages%2Frummy%2091.png&w=96&q=75)) | [Explore Rummy 91](https://yonostore.vercel.app/rummy-91) | Simple and fast with secure payment gateways and cash giveaways. |
-| **Rummy 365** | ![Rummy 365][(https://yonostore.vercel.app/assets/365.png](https://yonostore.vercel.app/_next/image?url=%2Fimages%2Frummy%20365.png&w=96&q=75)) | [Explore Rummy 365](https://yonostore.vercel.app/rummy-365) | Known for its bonus-rich gameplay and trusted affiliate rewards. |
+This repository is curated and updated by [yonostore](https://yonostore.vercel.app), a trusted platform for Rummy and card game enthusiasts looking for high-quality game links, previews, and APK downloads.
 
 ---
 
-## 🌐 Main Site
+## 📘 List of Featured Rummy Games
 
-Visit the full platform to browse all game listings:  
-👉 [yonostore](https://yonostore.vercel.app)
+| Game Name     | Preview & Download |
+|---------------|--------------------|
+| **Yono Rummy** | [yonostore](https://yonostore.vercel.app/yono-rummy) |
+| **ABC Rummy** | [yonostore](https://yonostore.vercel.app/abc-rummy) |
+| **JaiHo Rummy** | [yonostore](https://yonostore.vercel.app/jaiho-rummy) |
+| **Gogo Rummy** | [yonostore](https://yonostore.vercel.app/gogo-rummy) |
+| **IND Rummy** | [yonostore](https://yonostore.vercel.app/ind-rummy) |
+| **Rummy 91** | [yonostore](https://yonostore.vercel.app/rummy-91) |
+| **Rummy 365** | [yonostore](https://yonostore.vercel.app/rummy-365) |
 
 ---
 
-### 🔗 Why This Exists?
+## 📌 Game Descriptions
 
-This repository helps users and affiliates access all trusted Rummy apps in one clean directory — for SEO, marketing, and user exploration. Backed by verified platforms with real withdrawal options.
+### 🔸 Yono Rummy  
+[Yonostore](https://yonostore.vercel.app/yono-rummy) offers one of the smoothest Rummy platforms available today. With fast signup, secure wallet integration, and frequent bonus offers, it’s a favorite for regular players looking to earn responsibly.
+
+### 🔸 ABC Rummy  
+Check out [yonostore](https://yonostore.vercel.app/abc-rummy) for a lightweight, beginner-friendly app with great UI and minimal distractions. Perfect for fast-paced play and instant gaming.
+
+### 🔸 JaiHo Rummy  
+[JaiHo Rummy](https://yonostore.vercel.app/jaiho-rummy) delivers a localized, desi-style rummy experience with culturally rich themes and daily rewards. Optimized for both casual and competitive players.
+
+### 🔸 Gogo Rummy  
+[Gogo Rummy](https://yonostore.vercel.app/gogo-rummy) is built for users who love instant bonuses and referral programs. The game provides smooth performance even on older devices.
+
+### 🔸 IND Rummy  
+One of the most trusted names, [IND Rummy](https://yonostore.vercel.app/ind-rummy) brings classic Indian Rummy formats together with modern visuals. Regular events, cashback, and verified payment options are highlights.
+
+### 🔸 Rummy 91  
+[Rummy 91](https://yonostore.vercel.app/rummy-91) is gaining popularity for its minimal design and fast cashout experience. If you're looking for quick rewards and consistent reliability, this is worth exploring.
+
+### 🔸 Rummy 365  
+With 365-day engagement and constant promotions, [Rummy 365](https://yonostore.vercel.app/rummy-365) ensures players stay entertained with fresh content and a strong bonus system.
 
 ---
 
-> ⚠️ Disclaimer: These are third-party gaming platforms. Please play responsibly and verify legality in your state or region.
+## 🌐 About yonostore
+
+[yonostore](https://yonostore.vercel.app) is your go-to platform for the latest and most reliable Rummy and Teen Patti apps. Whether you’re an experienced gamer or just starting out, our previews, download links, and regular updates help you play smart and safe.
+
+---
+
+## 🔗 GitHub Pages Link
+
+For a clean one-page listing of all games:  
+👉 [https://yourusername.github.io/rummy-games/](https://yourusername.github.io/rummy-games/)
+
+> Make sure to enable GitHub Pages for this repo under:  
+> `Settings → Pages → Source → main / root`
+
+---
+
+## ⚠️ Disclaimer
+
+These apps involve real money games and are intended for players 18+. Please verify legality in your region before participating. Always play responsibly.
+
+---
+
+## 📬 Contributions & Feedback
+
+Want to suggest another Rummy app or provide updated info? Feel free to open an issue or pull request.  
+Maintained by: [yonostore](https://yonostore.vercel.app)
